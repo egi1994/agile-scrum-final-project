@@ -24,3 +24,5 @@ _When is this story considered complete?_
 
 **P**riority: 
 _Low / Medium / High_
+Add HITGAP issue template
+Commit directly to the main branch
